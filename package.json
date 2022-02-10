@@ -141,7 +141,7 @@
     "networked-aframe": "git+https://github.com/lifescopelabs/networked-aframe",
     "nipplejs": "^0.7.1",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "node-uuid": "^1.4.8",
     "nuxt": "^2.8.1",
     "qs": "^6.5.2",
